@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "badge": "Halifax's Best Realtor — as voted by his mom",
+    "headline": "Find your perfect\nhome in Halifax.",
+    "description": "Personalized real estate service with expert market knowledge, dedicated guidance, and a commitment to making your buying or selling journey smooth and stress-free.",
+    "primaryCta": "Get a Free Consultation",
+    "secondaryCtaPrefix": "Call",
+    "rating": "5.0/5",
+    "reviewCount": "50+ happy families",
+    "image": "/images/hero.jpg",
+    "imageAlt": "Vaibhav Sharma - Realtor in Halifax",
+    "floatingBadges": [
+      {
+        "title": "100% Dedicated",
+        "subtitle": "Your needs come first",
+        "icon": "Check"
+      },
+      {
+        "title": "#1",
+        "subtitle": "In his mom's book",
+        "variant": "dark"
+      }
+    ]
+  },
+  "trustBadges": [
+    { "icon": "ShieldCheck", "label": "Licensed Realtor" },
+    { "icon": "Clock", "label": "Flexible Scheduling" },
+    { "icon": "MapPin", "label": "Halifax Expert" },
+    { "icon": "Star", "label": "5-Star Service" }
+  ],
+  "servicesPreview": {
+    "eyebrow": "How I can help",
+    "title": "Real estate services for every step",
+    "subtitle": "Whether you're buying your first home, selling your property, or exploring the Halifax market, I'm here to guide you through every step.",
+    "previewCount": 6,
+    "viewAllLabel": "View All Services"
+  },
+  "whyChooseUs": {
+    "eyebrow": "Why choose Vaibhav",
+    "title": "A realtor who actually cares",
+    "subtitle": "I take the time to understand your needs and work tirelessly to make your real estate goals a reality.",
+    "items": [
+      {
+        "icon": "Zap",
+        "title": "Local Market Expert",
+        "description": "Deep knowledge of Halifax neighborhoods, pricing trends, and hidden gems across the region."
+      },
+      {
+        "icon": "HandCoins",
+        "title": "Transparent Guidance",
+        "description": "Honest advice with no pressure. I'll give you the facts and let you make the best decision for your family."
+      },
+      {
+        "icon": "Users",
+        "title": "Personalized Service",
+        "description": "Every client gets my full attention. Your search isn't just another transaction — it's your future home."
+      },
+      {
+        "icon": "BadgeCheck",
+        "title": "End-to-End Support",
+        "description": "From the first showing to closing day and beyond, I'm with you every step of the way."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "Your journey made simple",
+    "subtitle": "Buying or selling a home doesn't have to be stressful. Here's how we'll work together.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Let's Chat",
+        "description": "Tell me about your goals, timeline, and budget. No obligation — just a friendly conversation."
+      },
+      {
+        "step": "02",
+        "title": "Find or List Your Home",
+        "description": "I'll curate listings that match your criteria or prepare your property to stand out on the market."
+      },
+      {
+        "step": "03",
+        "title": "Close with Confidence",
+        "description": "From negotiations to paperwork, I handle the details so you can focus on what matters."
+      }
+    ]
+  },
+  "serviceArea": {
+    "eyebrow": "Where I work",
+    "title": "Proudly serving Halifax and beyond",
+    "subtitleTemplate": "Based in {primary} and serving surrounding communities across the HRM.",
+    "primaryLabel": "Primary service area",
+    "radiusLabel": "Service radius",
+    "radiusMiles": 50,
+    "radiusTemplate": "{miles} miles from {primary}",
+    "footerNote": "Don't see your area? Give me a call — I'm happy to help across Nova Scotia."
+  },
+  "ctaBanner": {
+    "title": "Ready to make your move?",
+    "description": "Whether you're buying, selling, or just curious about the Halifax market, let's talk. Free consultation, no pressure, just real advice.",
+    "primaryCta": "Get a Free Consultation"
+  }
+}

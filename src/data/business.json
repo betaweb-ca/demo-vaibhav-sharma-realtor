@@ -1,0 +1,29 @@
+{
+  "name": "Vaibhav Sharma",
+  "tagline": "Halifax's Best Realtor - as voted by his mom",
+  "description": "Helping Halifax families find their perfect home with personalized service, expert market knowledge, and a commitment to making your real estate journey smooth and stress-free.",
+  "phone": "(902) 555-0123",
+  "phoneHref": "tel:+19025550123",
+  "email": "vaibhav@sharmarealty.ca",
+  "address": "1234 Barrington Street",
+  "city": "Halifax",
+  "region": "NS",
+  "fullAddress": "1234 Barrington Street, Halifax, NS",
+  "hours": [
+    { "day": "Mon – Fri", "time": "9:00 AM – 6:00 PM" },
+    { "day": "Saturday", "time": "10:00 AM – 4:00 PM" },
+    { "day": "Sunday", "time": "By Appointment" }
+  ],
+  "hoursSummary": "Mon–Fri 9am–6pm · Sat 10am–4pm",
+  "footerNote": "Serving Halifax and surrounding communities with pride.",
+  "social": [
+    { "platform": "Facebook", "href": "#", "icon": "Facebook" },
+    { "platform": "Instagram", "href": "#", "icon": "Instagram" },
+    { "platform": "Twitter", "href": "#", "icon": "Twitter" },
+    { "platform": "LinkedIn", "href": "#", "icon": "Linkedin" }
+  ],
+  "legal": [
+    { "label": "Privacy", "href": "#" },
+    { "label": "Terms", "href": "#" }
+  ]
+}

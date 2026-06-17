@@ -1,0 +1,15 @@
+{
+  "links": [
+    { "label": "Home", "route": "/", "hash": "" },
+    { "label": "Services", "route": "/services", "hash": "" },
+    { "label": "About", "route": "/", "hash": "about" },
+    { "label": "Reviews", "route": "/", "hash": "reviews" },
+    { "label": "Contact", "route": "/", "hash": "contact" }
+  ],
+  "cta": {
+    "label": "Book a Consultation",
+    "route": "/services",
+    "hash": "quote"
+  },
+  "logoIcon": "Home"
+}

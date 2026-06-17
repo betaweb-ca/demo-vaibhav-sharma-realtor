@@ -1,0 +1,29 @@
+{
+  "colors": {
+    "primary": "#0B2545",
+    "primaryDark": "#081A33",
+    "accent": "#F59E0B",
+    "accentHover": "#D97706",
+    "surface": "#F4F6F9",
+    "text": "#0F172A",
+    "muted": "#64748B",
+    "success": "#22C55E",
+    "gradientBlue": "#1E3A8A",
+    "white": "#FFFFFF"
+  },
+  "fonts": {
+    "body": "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+  },
+  "buttons": {
+    "primary": "Get a Free Quote",
+    "secondary": "Request Quote",
+    "submit": "Request Quote",
+    "submitSent": "Sent!",
+    "viewAll": "View All Services",
+    "learnMore": "Learn More"
+  },
+  "meta": {
+    "siteTitle": "Service Business Template",
+    "siteDescription": "A customizable, responsive website template for local service businesses."
+  }
+}

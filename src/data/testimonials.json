@@ -1,0 +1,33 @@
+{
+  "section": {
+    "eyebrow": "Testimonials",
+    "title": "What my clients say",
+    "subtitle": "Real feedback from real families I've helped in Halifax."
+  },
+  "items": [
+    {
+      "name": "Sarah M.",
+      "location": "Halifax, NS",
+      "rating": 5,
+      "quote": "Vaibhav found us our dream home in just three weeks. He knew exactly what we wanted even before we did. Couldn't recommend him more highly!"
+    },
+    {
+      "name": "James R.",
+      "location": "Dartmouth, NS",
+      "rating": 5,
+      "quote": "Selling our family home was emotional, but Vaibhav made the whole process smooth and stress-free. He got us above asking price — his negotiation skills are unreal."
+    },
+    {
+      "name": "Priya K.",
+      "location": "Bedford, NS",
+      "rating": 5,
+      "quote": "As first-time buyers, we had a million questions. Vaibhav patiently walked us through everything and never once made us feel rushed. Absolute gem of a realtor."
+    },
+    {
+      "name": "Vaibhav's Mom",
+      "location": "Halifax, NS",
+      "rating": 5,
+      "quote": "He is the best realtor in all of Halifax. I should know — I'm his mother. But seriously, he treats every client like family. I'm very proud."
+    }
+  ]
+}

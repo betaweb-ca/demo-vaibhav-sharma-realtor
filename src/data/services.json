@@ -1,0 +1,96 @@
+{
+  "pageTitle": "Real Estate Services",
+  "hero": {
+    "eyebrow": "Real Estate Services",
+    "headline": "Expert guidance for\nbuyers and sellers",
+    "description": "From first-time homebuyers to seasoned investors, I provide tailored real estate services to help you achieve your goals in the Halifax market.",
+    "cta": "Book a Consultation"
+  },
+  "categories": [
+    "All Services",
+    "Buying",
+    "Selling",
+    "Investment",
+    "Relocation"
+  ],
+  "cardCta": "Learn More",
+  "learnMoreLabel": "Learn More",
+  "featured": {
+    "badge": "Most Popular",
+    "eyebrow": "Featured Package",
+    "title": "Full-Service Home Buying Package",
+    "description": "A complete, stress-free experience for homebuyers. From understanding your needs to handing over the keys, I handle every detail so you can focus on finding the one.",
+    "image": "/images/featured-package.jpg",
+    "imageAlt": "Featured home buying package",
+    "benefits": [
+      "Personalized property search based on your lifestyle and budget",
+      "Expert negotiation to get you the best deal",
+      "Guidance through inspections, financing, and closing",
+      "Post-move support — I'm still your realtor after you settle in",
+      "Mom-approved service guarantee"
+    ],
+    "cta": "Start Your Search"
+  },
+  "items": [
+    {
+      "id": "home-buying",
+      "title": "Home Buying",
+      "category": "Buying",
+      "description": "Find your dream home in Halifax with a realtor who listens, understands, and fights for the best deal on your behalf.",
+      "price": "Free for buyers",
+      "icon": "Home",
+      "image": "/images/services/residential.jpg",
+      "benefits": ["Personalized property matches", "Expert negotiation", "First-time buyer guidance"]
+    },
+    {
+      "id": "home-selling",
+      "title": "Home Selling",
+      "category": "Selling",
+      "description": "List, market, and sell your property at the best possible price. Professional staging advice and marketing included.",
+      "price": "Competitive rates",
+      "icon": "Building2",
+      "image": "/images/services/commercial.jpg",
+      "benefits": ["Professional photography", "Strategic pricing", "Multi-platform marketing"]
+    },
+    {
+      "id": "market-analysis",
+      "title": "Market Analysis",
+      "category": "Selling",
+      "description": "Get a detailed comparative market analysis to understand your home's value in the current Halifax real estate landscape.",
+      "price": "Free CMA",
+      "icon": "BadgeCheck",
+      "image": "/images/services/tune-up.jpg",
+      "benefits": ["Neighborhood comparables", "Price trend insights", "Selling strategy"]
+    },
+    {
+      "id": "investment",
+      "title": "Investment Properties",
+      "category": "Investment",
+      "description": "Explore real estate investment opportunities in Halifax. I'll help you identify properties with strong ROI potential.",
+      "price": "Custom Quote",
+      "icon": "Sparkles",
+      "image": "/images/services/custom.jpg",
+      "benefits": ["ROI projections", "Rental market insights", "Portfolio planning"]
+    },
+    {
+      "id": "relocation",
+      "title": "Relocation Services",
+      "category": "Relocation",
+      "description": "Moving to Halifax? I'll help you navigate the local market, find the right neighborhood, and settle in smoothly.",
+      "price": "Free consultation",
+      "icon": "MapPin",
+      "image": "/images/services/installation.jpg",
+      "benefits": ["Neighborhood guides", "Virtual tours available", "Newcomer resources"]
+    },
+    {
+      "id": "first-time-buyer",
+      "title": "First-Time Buyer Program",
+      "category": "Buying",
+      "description": "Buying your first home is exciting — and a little overwhelming. I'll walk you through every step with patience and clarity.",
+      "price": "Free for buyers",
+      "icon": "Users",
+      "image": "/images/services/deep-clean.jpg",
+      "benefits": ["Step-by-step guidance", "Mortgage pre-approval help", "First-time buyer incentives"]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "section": {
+    "eyebrow": "Get in touch",
+    "title": "Book your free consultation",
+    "description": "Tell me a bit about what you're looking for and I'll get back to you — usually within a few hours."
+  },
+  "contactLabels": {
+    "phone": "Call me",
+    "email": "Email",
+    "visit": "Office",
+    "hours": "Hours"
+  },
+  "fields": [
+    {
+      "id": "name",
+      "label": "Full Name",
+      "type": "text",
+      "required": true,
+      "placeholder": "Jane Doe",
+      "colSpan": 1
+    },
+    {
+      "id": "phone",
+      "label": "Phone",
+      "type": "tel",
+      "required": true,
+      "placeholder": "(902) 555-5555",
+      "colSpan": 1
+    },
+    {
+      "id": "email",
+      "label": "Email",
+      "type": "email",
+      "required": true,
+      "placeholder": "jane@email.com",
+      "colSpan": 2
+    },
+    {
+      "id": "service",
+      "label": "How can I help?",
+      "type": "select",
+      "required": false,
+      "placeholder": "Select a service",
+      "colSpan": 2,
+      "includeOtherOption": true,
+      "otherLabel": "Something else"
+    },
+    {
+      "id": "message",
+      "label": "Message",
+      "type": "textarea",
+      "required": false,
+      "placeholder": "Tell me about your ideal home, timeline, budget, or any questions...",
+      "rows": 4,
+      "colSpan": 2
+    }
+  ],
+  "disclaimer": "By submitting you agree to be contacted about your request.",
+  "successMessage": "Thanks for reaching out! I'll be in touch within a few hours."
+}

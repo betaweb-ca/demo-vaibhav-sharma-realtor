@@ -1,0 +1,33 @@
+{
+  "section": {
+    "eyebrow": "FAQs",
+    "title": "Common questions, clear answers",
+    "subtitle": "Still wondering? Reach out and I'll be glad to help."
+  },
+  "items": [
+    {
+      "question": "How do I get started?",
+      "answer": "Just reach out! Call, email, or fill out the contact form. We'll set up a free consultation to discuss your goals, timeline, and budget — no obligation."
+    },
+    {
+      "question": "Do you help first-time homebuyers?",
+      "answer": "Absolutely. First-time buyers are my specialty. I'll walk you through every step — from mortgage pre-approval to closing day — with patience and clarity."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "I'm based in Halifax and serve the entire HRM, including Dartmouth, Bedford, Sackville, and surrounding communities across Nova Scotia."
+    },
+    {
+      "question": "What are your fees?",
+      "answer": "For most home purchases, my services are free for buyers — the seller pays the commission. For selling, I offer competitive rates. I'll always be transparent about costs upfront."
+    },
+    {
+      "question": "How long does it take to buy or sell a home?",
+      "answer": "It varies, but most home purchases in Halifax take 30-60 days from offer to closing. Selling depends on market conditions — I'll provide a realistic timeline based on current data."
+    },
+    {
+      "question": "Can you help with relocation to Halifax?",
+      "answer": "Of course! I've helped many families relocate to Halifax. I provide neighborhood guides, virtual tours, and newcomer resources to make your move as smooth as possible."
+    }
+  ]
+}
